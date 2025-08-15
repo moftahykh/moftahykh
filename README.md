@@ -26,9 +26,7 @@ I believe in technology as a tool for **positive change**, and my values are roo
 ### 📚 Current Focus
 
 - 🔧 Developing **Smart Traffick (MS) Powered by AI** — a smart city project that uses machine learning to optimize traffic systems and public infrastructure.
-- 🛍️ Building an elegant online perfume store called **VESSENCE الأثَير** using a custom PHP checkout system and luxury branding.
 - 📊 Advancing in **commerce & data analytics**, bridging the gap between software systems and business intelligence.
-- 🇾🇪 Creating a culturally-rooted brand called **Arabiaphilics** inspired by Yemen & South Arabian heritage.
 
 ---
 
