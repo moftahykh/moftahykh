@@ -15,11 +15,10 @@ I believe in technology as a tool for **positive change**, and my values are roo
 
 - 💻 Languages: `C#`, `PHP`, `Python`, `JavaScript`, `SQL`
 - 🌐 Web: `HTML5`, `CSS3`, `TailwindCSS`, `Bootstrap`, `React`, `AJAX`
-- 🧠 AI & Data: `Python (Pandas, NumPy, scikit-learn)`, `Power BI`, `R`
 - 🗃️ DBMS: `MySQL`, `Oracle`, `SQL Server`
 - ⚙️ Frameworks: `Laravel`, `.NET WinForms`, `Oracle APEX`
-- 🔍 Dev Tools: `VS Code`, `Zsh + Powerlevel10k`, `Git`, `Figma`
-- 🖼 UI/UX Focus: Glassmorphism, Neumorphism, iOS-inspired Dashboards
+- 🔍 Dev Tools: `VS Code`,  `Git`
+- 🖼 UI/UX Focus: Glassmorphism, Neumorphism
 
 ---
 
@@ -30,23 +29,10 @@ I believe in technology as a tool for **positive change**, and my values are roo
 
 ---
 
-### 🤝 Let's Collaborate
-
-I'm open to working on:
-- Full-stack web applications  
-- AI-driven projects in public infrastructure or e-commerce  
-- UI/UX modern redesigns  
-- Data-driven dashboards and reporting systems  
-- Projects with social, ethical, or cultural impact
-
----
 
 ### 📬 Contact Me
 
-- 📧 Email: `khalil.moftah.dev@gmail.com` (example)
-- 🌐 Website: *(Coming soon...)*  
-- 📍 Location: Yemen (Remote-friendly 🌍)
-
+- 📧 Email: `khalil.moftah.@gmail.com`
 ---
 
 ### ✨ Quote
