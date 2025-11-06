@@ -14,7 +14,7 @@ I believe in technology as a tool for **positive change**, and my values are roo
 ### 🛠️ Tech Stack & Tools
 
 - 💻 Languages: `C#`, `PHP`, `Python`, `JavaScript`, `SQL`
-- 🌐 Web: `HTML5`, `CSS3`, `TailwindCSS`, `Bootstrap`, `React`, `AJAX`
+- 🌐 Web: `HTML5`, `CSS3`, `TailwindCSS`
 - 🗃️ DBMS: `MySQL`, `Oracle`, `SQL Server`
 - ⚙️ Frameworks: `Laravel`, `.NET WinForms`, `Oracle APEX`
 - 🔍 Dev Tools: `VS Code`,  `Git`
