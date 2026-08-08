@@ -1,10 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   KHALIL AL-RAHMAN MOFTAH · TERMINAL-THEMED PROFILE README      -->
-<!--   GitHub strips CSS — the terminal window is a custom SVG.      -->
+<!--   KHALIL AL-RAHMAN MOFTAH  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0:090e1a,100:111728&text=KHALIL%20AL-RAHMAN%20MOFTAH&fontSize=34&fontColor=00f0ff&height=150&section=header&animation=fadeIn" width="100%" alt="Khalil Al-Rahman Moftah"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090e1a,100:111728&text=KHALIL%20AL-RAHMAN%20MOFTAH&fontSize=34&fontColor=00f0ff&height=150&section=header&animation=fadeIn" width="100%" alt="Khalil Al-Rahman Moftah"/>
 </div>
 
 <div align="center">
@@ -143,5 +142,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0:111728,100:090e1a&height=90&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111728,100:090e1a&height=90&section=footer" width="100%" alt=""/>
 </div>
