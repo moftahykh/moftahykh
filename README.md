@@ -1,5 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   KHALIL AL-RAHMAN MOFTAH      -->
+<!--   KHALIL AL-RAHMAN MOFTAH · TERMINAL-THEMED PROFILE README      -->
+<!--   GitHub strips CSS — the terminal window is a custom SVG.      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
