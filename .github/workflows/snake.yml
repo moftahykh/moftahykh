@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Check out profile artwork
         uses: actions/checkout@v4
+      - name: Prepare output directory
+        run: mkdir -p dist
       - name: Generate snake SVGs (light + dark)
         uses: Platane/snk@v3
         with:
