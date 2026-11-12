@@ -1,61 +1,27 @@
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/editorial/header-light.svg"><img src="./assets/editorial/header-light.svg" alt="Khalil Al-Rahman Moftah — Computer Science · Statistics & Information. Research tools, intelligent systems and software that makes them useful." width="100%"></picture>
-</div>
+<div align="center"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/editorial-v2/intro-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/editorial-v2/intro-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-v2/intro-dark.svg"><img src="./assets/editorial-v2/intro-light.svg" width="100%" alt="Khalil Al-Rahman Moftah. Computer Science · Statistics &amp; Information. Research tools, intelligent systems and useful software. Expertise: research tools, applied ML and software systems. Selected work."></picture></div>
 
-<p align="center"><a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#expertise">Expertise</a> &nbsp; · &nbsp; <a href="#contact">Contact</a></p>
+<div align="center"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/editorial-v2/row1-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/editorial-v2/row1-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-v2/row1-dark.svg"><img src="./assets/editorial-v2/row1-light.svg" width="100%" alt="PaperGraph and CFTR Pathogenicity Classifier project artwork and descriptions."></picture></div>
+
+<p align="center"><a href="https://github.com/moftahykh/papergraph">Explore PaperGraph →</a> &nbsp; · &nbsp; <a href="https://github.com/moftahykh/cftr-pathogenicity-classifier">Explore CFTR →</a></p>
+
+<div align="center"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/editorial-v2/row2-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/editorial-v2/row2-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-v2/row2-dark.svg"><img src="./assets/editorial-v2/row2-light.svg" width="100%" alt="MoleculeNet HIV Prediction and NeuralCanvas project artwork and descriptions."></picture></div>
+
+<p align="center"><a href="https://github.com/moftahykh/MoleculeNet-HIV-Prediction">Explore MoleculeNet →</a> &nbsp; · &nbsp; <a href="https://github.com/moftahykh/mnist-nn">Explore NeuralCanvas →</a></p>
+
+<details><summary>Profile and project details in text</summary>
+
+**Khalil Al-Rahman Moftah** · Computer Science · Statistics & Information
 
 I build across software and machine learning, with a particular interest in research tools, biological data, and the systems that bring them together.
 
-### Expertise
+- [PaperGraph](https://github.com/moftahykh/papergraph) — Explore citations and related research in an interactive graph. Flutter · FastAPI · PostgreSQL.
+- [CFTR Pathogenicity Classifier](https://github.com/moftahykh/cftr-pathogenicity-classifier) — Experimental variant classification using protein structure and grouped evaluation. Python · AlphaFold · scikit-learn.
+- [MoleculeNet HIV Prediction](https://github.com/moftahykh/MoleculeNet-HIV-Prediction) — Molecular screening benchmark: 0.8525 test ROC-AUC and 29.8% active-compound recall. Python · RDKit · XGBoost.
+- [NeuralCanvas](https://github.com/moftahykh/mnist-nn) — A neural network trained from scratch, with digit recognition in the browser. NumPy · JavaScript · MNIST.
 
-**Research tools** — Literature discovery & visual exploration  
-**Applied ML** — Biological data & model evaluation  
-**Software systems** — Mobile clients, APIs & data pipelines
+Project artwork is conceptual, not scientific data or application screenshots. [Email me](mailto:khalil.moftah@gmail.com).
+</details>
 
-## Selected work
+<div align="center"><a href="mailto:khalil.moftah@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/editorial-v2/footer-mobile-dark.svg"><source media="(max-width: 600px)" srcset="./assets/editorial-v2/footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-v2/footer-dark.svg"><img src="./assets/editorial-v2/footer-light.svg" width="100%" alt="What I work on: Research discovery, biological data and software, from data pipelines through to interfaces. Get in touch: Open to collaboration and research. Email me. Activity: the contribution snake."></picture></a></div>
 
-<table><tr><td width="50%" valign="top">
-<a href="https://github.com/moftahykh/papergraph"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/papergraph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/editorial/papergraph-light.svg"><img src="./assets/editorial/papergraph-light.svg" alt="Conceptual artwork of linked research papers" width="100%"></picture></a><br />
-<sub>01 / RESEARCH DISCOVERY</sub><br /><b>PaperGraph</b><br />
-Explore the citations and related research around a paper in an interactive graph.<br /><br />
-<sub>Flutter · FastAPI · PostgreSQL</sub><br /><br />
-<a href="https://github.com/moftahykh/papergraph">Explore project →</a>
-</td><td width="50%" valign="top">
-<a href="https://github.com/moftahykh/cftr-pathogenicity-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/cftr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/editorial/cftr-light.svg"><img src="./assets/editorial/cftr-light.svg" alt="Conceptual protein structure artwork" width="100%"></picture></a><br />
-<sub>02 / COMPUTATIONAL BIOLOGY</sub><br /><b>CFTR Pathogenicity Classifier</b><br />
-Experimental variant classification using protein structure and grouped evaluation.<br /><br />
-<sub>Python · AlphaFold · scikit-learn</sub><br /><br />
-<a href="https://github.com/moftahykh/cftr-pathogenicity-classifier">Explore project →</a>
-</td></tr><tr><td width="50%" valign="top">
-<a href="https://github.com/moftahykh/MoleculeNet-HIV-Prediction"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/molecule-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/editorial/molecule-light.svg"><img src="./assets/editorial/molecule-light.svg" alt="Conceptual molecular artwork" width="100%"></picture></a><br />
-<sub>03 / MOLECULAR ML</sub><br /><b>MoleculeNet HIV Prediction</b><br />
-Molecular screening benchmark with 0.8525 test ROC-AUC and 29.8% active-compound recall.<br /><br />
-<sub>Python · RDKit · XGBoost</sub><br /><br />
-<a href="https://github.com/moftahykh/MoleculeNet-HIV-Prediction">Explore project →</a>
-</td><td width="50%" valign="top">
-<a href="https://github.com/moftahykh/mnist-nn"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/neural-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/editorial/neural-light.svg"><img src="./assets/editorial/neural-light.svg" alt="Conceptual neural network and handwritten digit artwork" width="100%"></picture></a><br />
-<sub>04 / NEURAL NETWORKS</sub><br /><b>NeuralCanvas</b><br />
-A neural network trained from scratch, with digit recognition running in the browser.<br /><br />
-<sub>NumPy · JavaScript · MNIST</sub><br /><br />
-<a href="https://github.com/moftahykh/mnist-nn">Explore project →</a>
-</td></tr></table>
-
-<sub>Project artwork is conceptual, not scientific data or application screenshots.</sub>
-
-### What I work on
-
-Research discovery, biological data and software—from data pipelines through to interfaces.
-
-### Contact
-
-Open to collaboration and research. [Email me →](mailto:khalil.moftah@gmail.com)
-
-## Activity
-
-The contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moftahykh/moftahykh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moftahykh/moftahykh/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/moftahykh/moftahykh/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake">
-</picture>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moftahykh/moftahykh/output/github-contribution-grid-snake-dark.svg?v=2"><img src="https://raw.githubusercontent.com/moftahykh/moftahykh/output/github-contribution-grid-snake.svg?v=2" width="100%" alt="Animated GitHub contribution snake"></picture></div>
